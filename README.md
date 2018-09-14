@@ -10,7 +10,7 @@ partA.py, partB.py, partC.py
   
 ps1solution.py
   - obfuscated python code that produces the intended behaviors.
-  - run ps1solution.py in Spyder, then from the command line, type  
+  - run ps1solution.py in Spyder, then from the iPython console, type  
    partASolution()  
    partBSolution()  
    partCSolution()  
